@@ -1,0 +1,46 @@
+
+https://github.com/datatalking/real-estate-dashboard
+
+
+https://github.com/noahgift/real_estate_ml
+
+EDA https://github.com/Joffreybvn/real-estate-data-analysis
+
+DASHBOARD - love it https://github.com/andreaalves/real-estate-dashboard
+
+video https://www.youtube.com/watch?v=lNhH0h-Lbqo
+https://github.com/kaiyungtan/Real-Estate-data-analysis
+https://towardsdatascience.com/automating-real-estate-investment-analysis-d2b07395833b
+Real estate data analysis using Python book. KOREAN ?
+https://preview-kyobobook-co-kr.translate.goog/preview.jsp?siteGb=INK&ejkGb=KOR&barcode=9791158391546&_x_tr_sch=http&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
+
+https://github.com/wikibook/python-real-estate/
+https://www-yes24-com.translate.goog/Product/Goods/73090891?_x_tr_sch=http&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
+
+https://github.com/PacktPublishing/Hands-on-Exploratory-Data-Analysis-with-Python
+
+VIDEO of DASHBOARD https://www.youtube.com/watch?v=JN6ioRobhZw&t=14s
+
+https://asimov.academy/analise-vendas-nyc/ could do seattle
+
+
+
+https://jovian.ai/mutshinda/real-estate-data-analysis-using-python
+https://analyticsariel.notion.site/Datasets-c3a0882f1a2b4b96824721e42234b5bd
+https://www.coursehero.com/file/84258784/Python-in-Real-Estate-Valuationspdf/
+https://jovian.ai/mutshinda/real-estate-data-analysis-using-python
+https://github.com/sspaeti-com/practical-data-engineering
+https://www.sspaeti.com/blog/data-engineering-project-in-twenty-minutes/
+https://github.com/denadai2/real-estate-neighborhood-prediction
+https://github.com/JimKing100/SF_Real_Estate_Live
+https://github.com/ravvis/Real-Estate-Django-Project
+https://medium.com/analytics-vidhya/apartment-market-web-scrapping-and-eda-using-python-a9eacf6d64e2
+
+https://adamnaamani.com/python-for-real-estate/
+
+https://towardsdatascience.com/data-analysis-predicting-the-housing-market-using-python-eae4f9fbd4e5
+
+https://levelup.gitconnected.com/using-python-to-analyze-real-estate-investments-a2ec2a5c2be2
+https://www.linkedin.com/pulse/data-analysis-project-python-determine-house-sales-price-brandon?trk=public_profile_article_view
+https://medium.com/geekculture/hey-chatgpt-solve-these-coding-tasks-using-python-b2e7482f2c18
+https://levelup.gitconnected.com/how-to-get-data-on-the-housing-market-using-python-603317f9291a

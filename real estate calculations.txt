@@ -1,0 +1,7 @@
+real estate calculations
+https://colab.research.google.com/drive/1Msbw6urS4PFfidAGIWjDq0brkHrY91X-?usp=sharing
+Google Collab Cheat Sheet
+Streeteasy Data Dashboard
+https://towardsdev.com/nyc-streeteasy-get-real-estate-housing-data-using-python-dc9632d5a609
+also this one is good 
+https://github.com/j-adamczyk/AWS_serverless_BI_pipeline
